@@ -1,0 +1,64 @@
+﻿  Pac-Man.cpp
+C:\Users\Ahmed\Desktop\CS\SFML\Pac-Man\Pac-Man\Pac-Man.cpp(95): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ahmed\Desktop\CS\SFML\Pac-Man\Pac-Man\Pac-Man.cpp(108): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ahmed\Desktop\CS\SFML\Pac-Man\Pac-Man\Pac-Man.cpp(121): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ahmed\Desktop\CS\SFML\Pac-Man\Pac-Man\Pac-Man.cpp(134): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ahmed\Desktop\CS\SFML\Pac-Man\Pac-Man\Pac-Man.cpp(147): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ahmed\Desktop\CS\SFML\Pac-Man\Pac-Man\Pac-Man.cpp(160): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ahmed\Desktop\CS\SFML\Pac-Man\Pac-Man\Pac-Man.cpp(173): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ahmed\Desktop\CS\SFML\Pac-Man\Pac-Man\Pac-Man.cpp(189): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ahmed\Desktop\CS\SFML\Pac-Man\Pac-Man\Pac-Man.cpp(207): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ahmed\Desktop\CS\SFML\Pac-Man\Pac-Man\Pac-Man.cpp(223): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ahmed\Desktop\CS\SFML\Pac-Man\Pac-Man\Pac-Man.cpp(238): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ahmed\Desktop\CS\SFML\Pac-Man\Pac-Man\Pac-Man.cpp(256): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ahmed\Desktop\CS\SFML\Pac-Man\Pac-Man\Pac-Man.cpp(547): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ahmed\Desktop\CS\SFML\Pac-Man\Pac-Man\Pac-Man.cpp(3382): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Pac-Man.vcxproj -> C:\Users\Ahmed\Desktop\CS\SFML\Pac-Man\Debug\Pac-Man.exe
